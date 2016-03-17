@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppsAvanzadas</string>
+    <string name="instruction">Login con Facebook</string>
+    <string name="id_banner">ca-app-pub-4042847174452252/2342183121</string>
+    <string name="facebook_app_id">1694633417448942</string>
+</resources>
